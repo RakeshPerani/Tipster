@@ -5,13 +5,13 @@ Tipster is a command line Python tip calculator that allows the user to input th
 
 ## Table of Contents
 
-- [Installation/Technology Requirements](#installation)
-    - [Python ver. 3.9.7](#python)
-- [Usage](#typo3-setup)
+- Installation/Technology Requirements
+    - Python ver. 3.9.7
+- Usage
     - Run Tipster Python script from command line
     - User Inputs: bill, number of people, and tip amount
     - Outputs: total amount per person, if bill divided evenly, including tax
-- [Bonus Features](#bonus)
+- Bonus Features
     - Input Checks
     - Uneven Bill Calculator
 - License
