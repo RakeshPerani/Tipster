@@ -46,7 +46,7 @@ print(f'Total bill: ${Formatted_bill_amount}\nEach person should pay: ${Formatte
 ### Input Checks:
 Every user input is checked to make sure it is a valid entry, i.e., a positive float/int, no negative numbers/strings where required.
 ### Uneven Bill Calculator:
-There is an option to calculate each person's total amount if the bill is split unevenly and some people do not buy/pay anything. User will have to provide the portion of the total bill each person is paying and the amount each person will tip. Each paying person's total amount including tip and tax will be outputed.
+There is an option to calculate each person's total amount if the bill is split unevenly and some people do not buy/pay anything. User will have to provide the portion of the total bill each person is paying and the amount each person will tip separately for each individual. Each paying person's total amount including tip and tax will be outputed.
 ~~~
 print(f'Person {count} is paying ${Formatted_each_person_cost}.')
 ~~~
